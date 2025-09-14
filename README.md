@@ -1,2 +1,2 @@
-# GroupProject-Buoi3
-- chỉnh sửa nhỏ README
+GroupProject-Buoi3
+Thanh Toàn
