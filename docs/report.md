@@ -71,7 +71,7 @@ Quy trình này giúp chúng tôi làm việc song song mà không sợ ghi đè
 4. Cảm nhận cá nhân
 
 - Toàn: Học được quy trình teamwork với Git, hiểu rõ cách tạo nhánh, commit nhỏ, mở pull request và xử lý conflict. Thấy Git rất hữu ích khi làm việc nhóm.
-- Thiên: (để bạn ấy bổ sung sau)
+- Thiên: Hiểu rõ cách sử dụng Git để làm việc nhóm, biết cách mở Pull Request, review code và xử lý conflict.
 - Dũng: Git giúp làm việc nhóm hiệu quả hơn nhờ quản lý phiên bản rõ ràng, tránh ghi đè code và dễ phối hợp. Ban đầu hơi khó nhớ lệnh nhưng khi quen thì quy trình rất chuyên nghiệp và tiện lợi.
 
 ---
