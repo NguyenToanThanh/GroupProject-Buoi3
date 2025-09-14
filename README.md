@@ -1,3 +1,2 @@
-GroupProject-Buoi3
-Thanh Toàn
-Trịnh Minh Dũng
+GroupProject-Buoi3 
+Trinh Minh Dung
