@@ -1,1 +1,2 @@
 - Ghi chu cua Dung
+- Ghi chu cua Thien
