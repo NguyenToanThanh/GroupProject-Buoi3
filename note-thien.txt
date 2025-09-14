@@ -1,1 +1,2 @@
 Ghi chu lan 1
+- cap nhat ghi chu lan 2
